@@ -36,7 +36,7 @@ if (isset($_POST['update'])) {
 <!-- Bootstrap CSS -->
 <link rel="stylesheet"
 	href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
-<title>Insert Candle</title>
+<title>Update Candle</title>
 </head>
 <body style="background-color:aquamarine;">
 <div class = "container my-5">
