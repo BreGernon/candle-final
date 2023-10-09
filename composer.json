@@ -1,6 +1,0 @@
-{
-	"name" : "sotired/candleapp",
-	"require": {
-		"monolog/monolog": "^3.4"
-	}
-}
